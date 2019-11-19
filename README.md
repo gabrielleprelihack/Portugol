@@ -1,2 +1,2 @@
 # Portugol
-Estudos de lógica de programação em Portugol
+Estudos de lógica de programação URI judge em Portugol
